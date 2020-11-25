@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Felipe\\Desktop\\Ex4-ListaFixacao\\Ex4-ListaFixacao.csproj",
+      "projectUniqueName": "C:\\Users\\Felipe\\Desktop\\Senai\\C#\\Ex4-ListaFixacao\\Ex4-ListaFixacao.csproj",
       "projectName": "Ex4-ListaFixacao",
-      "projectPath": "C:\\Users\\Felipe\\Desktop\\Ex4-ListaFixacao\\Ex4-ListaFixacao.csproj",
+      "projectPath": "C:\\Users\\Felipe\\Desktop\\Senai\\C#\\Ex4-ListaFixacao\\Ex4-ListaFixacao.csproj",
       "packagesPath": "C:\\Users\\Felipe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Felipe\\Desktop\\Ex4-ListaFixacao\\obj\\",
+      "outputPath": "C:\\Users\\Felipe\\Desktop\\Senai\\C#\\Ex4-ListaFixacao\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Felipe\\AppData\\Roaming\\NuGet\\NuGet.Config"

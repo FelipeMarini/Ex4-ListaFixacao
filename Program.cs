@@ -38,21 +38,22 @@ namespace Ex4_ListaFixacao
 
                 Console.WriteLine();
                 
-                Console.WriteLine("O menor valor dentre os dez valores inseridos é: ");
+                Console.WriteLine("O menor valor dentre os dez valores inseridos é:\n ");
 
                 Console.ForegroundColor = ConsoleColor.DarkGreen;
 
-                Console.Write(min);
+                Console.WriteLine(min);
 
                 Console.ResetColor();
                 
                 Console.WriteLine();
+                Console.WriteLine();
                 
-                Console.WriteLine("O maior valor dentre os dez valores inseridos é: ");
+                Console.WriteLine("O maior valor dentre os dez valores inseridos é:\n ");
 
                 Console.ForegroundColor = ConsoleColor.DarkBlue;
 
-                Console.Write(max);
+                Console.WriteLine(max);
 
                 Console.ResetColor();
 
